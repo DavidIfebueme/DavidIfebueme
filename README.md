@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidIfebueme(David0x01)
 - 👀 I’m interested in web development, python automation and cyber security/ information security
-- 🌱 I’m currently learning React for front end development
+- 🌱 I’m currently learning Solidity, Rust, Vyper and Serpent
 - 💞️ I’m looking to collaborate on web development works, python automation tasks and cybersec ctf challenges
 - 📫 You can reach me on davidifebueme@gmail.com
 
