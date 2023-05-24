@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathons, AI projects, Software development**
 
-- 📝 I regularly write articles on [davidifebueme.hasnode.dev](davidifebueme.hasnode.dev)
+- 📝 I regularly write articles on [davidifebueme.hashnode.dev](davidifebueme.hashnode.dev)
 
 - 💬 Ask me about **Django, Bug bounty, Python, ReactJS**
 
