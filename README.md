@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **KingsGamble(a celo based Dapp))**
 
-- 🌱 I’m currently learning **Decentralized Finance Security, FastAPI**
+- 🌱 I’m currently learning **Blockchain Security, Kotlin**
 
 - 👯 I’m looking to collaborate on **Hackathons, AI projects, Software development**
 
