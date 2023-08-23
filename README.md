@@ -1,13 +1,13 @@
 [![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif)](https://davidifebueme.hashnode.dev)
 <h1 align="center">Hi 👋, I'm Cypheron</h1>
-<h3 align="center">A passionate software developer | Security Analyst</h3>
+<h3 align="center">A passionate Software Engineer | Security Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidifebueme&label=Profile%20views&color=0e75b6&style=flat" alt="davidifebueme" /> </p>
 
 <p align="left"> <a href="https://twitter.com/davidifebueme" target="blank"><img src="https://img.shields.io/twitter/follow/davidifebueme?logo=twitter&style=for-the-badge" alt="davidifebueme" /></a> </p>
 
-- 🔭 I’m currently working on **KingsGamble(a celo based Dapp))**
+- 🔭 I’m currently working on **KingsGamble(a celo based Dapp) and King of the Celo (Celo version of kingofether)**
 
 - 🌱 I’m currently learning **Blockchain Security, Kotlin**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [davidifebueme.hashnode.dev](davidifebueme.hashnode.dev)
 
-- 💬 Ask me about **Django, Bug bounty, Python, ReactJS**
+- 💬 Ask me about **Django, Bug bounty, Python, Solidity**
 
 - 📫 How to reach me **davidifebueme@gmail.com**
 
