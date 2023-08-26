@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/davidifebueme" target="blank"><img src="https://img.shields.io/twitter/follow/davidifebueme?logo=twitter&style=for-the-badge" alt="davidifebueme" /></a> </p>
 
-- 🔭 I’m currently working on **KingsGamble(a celo based Dapp) and King of the Celo (Celo version of kingofether)**
+- 🔭 I’m currently working on **KingsGamble(a celo based Dapp) and King of the Celo (Celo version of kingofether)*
+- 🌱 I’m currently learning **Blockchain Security | Advanced Solidity concepts**
 
-- 🌱 I’m currently learning **Blockchain Security, Kotlin**
-
-- 👯 I’m looking to collaborate on **Hackathons, AI projects, Software development**
+- 👯 I’m looking to collaborate on **Hackathons, Defi, AI projects, Software development**
 
 - 📝 I regularly write articles on [davidifebueme.hashnode.dev](davidifebueme.hashnode.dev)
 
