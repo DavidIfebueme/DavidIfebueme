@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif)](https://davidifebueme.hashnode.dev)
 <h1 align="center">Hi 👋, I'm Cypheron</h1>
 <h3 align="center">A passionate Software Engineer | Security Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,13 +7,13 @@
 <p align="left"> <a href="https://twitter.com/davidifebueme" target="blank"><img src="https://img.shields.io/twitter/follow/davidifebueme?logo=twitter&style=for-the-badge" alt="davidifebueme" /></a> </p>
 
 - 🔭 I’m currently working on **KingsGamble(a celo based Dapp) and King of the Celo (Celo version of kingofether)*
-- 🌱 I’m currently learning **Blockchain Security | Advanced Solidity concepts**
+- 🌱 I’m currently learning **Blockchain Security & Flask**
 
 - 👯 I’m looking to collaborate on **Hackathons, Defi, AI projects, Software development**
 
 - 📝 I regularly write articles on [davidifebueme.hashnode.dev](https://davidifebueme.hashnode.dev)
 
-- 💬 Ask me about **Django, Bug bounty, Python, Solidity**
+- 💬 Ask me about **Django, Flask, Bug bounty, Python, Solidity**
 
 - 📫 How to reach me **davidifebueme@gmail.com**
 
