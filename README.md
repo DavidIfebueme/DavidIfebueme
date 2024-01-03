@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/davidifebueme" target="blank"><img src="https://img.shields.io/twitter/follow/davidifebueme?logo=twitter&style=for-the-badge" alt="davidifebueme" /></a> </p>
 
-- 🔭 I’m currently working on **VoterVerse(a web3 based voting software) and TaskSage(a task manager with AI insights)*
+- 🔭 I’m currently working on **VoterVerse(a web3 based voting software) and Ethernaut challenges from OpenZepellin**
 - 🌱 I’m currently learning **Blockchain Security & Flask**
 
 - 👯 I’m looking to collaborate on **Hackathons, Defi, AI projects, Software development**
