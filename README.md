@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/davidifebueme" target="blank"><img src="https://img.shields.io/twitter/follow/davidifebueme?logo=twitter&style=for-the-badge" alt="davidifebueme" /></a> </p>
 
-- 🔭 I’m currently working on **VoterVerse(a web3 based voting software) and Code4rena Audit Contests**
+- 🔭 I’m currently working on **VoterVerse(a zero knowledge based voting software) and Code4rena Audit Contests**
 - 🌱 I’m currently learning **Blockchain Security & ZKP**
 
 - 👯 I’m looking to collaborate on **Hackathons, Defi, AI projects, Software development**
