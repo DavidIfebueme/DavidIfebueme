@@ -57,7 +57,7 @@
 ### 📫 Reach Me
 
 - Email: **davidifebueme@gmail.com**
-- I’m always open to collaboration, hackathons, and deep tech projects.
+- I’m always open to collaboration, hackathons, and interesting projects.
 
 ---
 
