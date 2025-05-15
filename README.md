@@ -29,7 +29,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)
 
 ---
 
