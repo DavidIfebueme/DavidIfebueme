@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building **[VoterVerse](https://github.com/davidifebueme)** – a zero-knowledge voting platform and **brolang** - a custom cypto bro themed dsl that compiles to python & web3.py
+- 🔭 Currently building **[VoterVerse](https://github.com/davidifebueme)** – a zero-knowledge voting platform and **[BroLang](https://github.com/davidifebueme)** - a custom cypto bro themed dsl that compiles to python & web3.py
 - 🧑‍💻 Competing in **Code4rena** audit contests.
 - 🛠️ Exploring **blockchain security**, **zk-SNARKs**, and **decentralized infrastructure**.
 - ✍️ Writing regularly on [Hashnode](https://davidifebueme.hashnode.dev).
@@ -64,5 +64,5 @@
 
 ### ♟️ Fun Fact
 
-I play **chess** to unwind and sharpen pattern recognition – message me if you want a game.
+I play **chess** for fun and maybe to sharpen pattern recognition – message me if you want a game.
 
