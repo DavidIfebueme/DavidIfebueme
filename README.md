@@ -41,6 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=davidifebueme&show_icons=true&hide=issues&count_private=true&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidifebueme&layout=compact&theme=transparent" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidifebueme&theme=transparent" />
+  <img src="https://github-profile-trophy.vercel.app/?username=davidifebueme&theme=discord" />
 </div>
 
 ---
